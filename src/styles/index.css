@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+.card-img-top {
+    aspect-ratio: 500/325;
+    background-color: dimgray;
+}
+
